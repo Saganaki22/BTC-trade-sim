@@ -8,6 +8,10 @@
 
 A realistic Bitcoin paper trading simulator built for friends who want to practice trading strategies without risking real money. Features live BTC price feeds, advanced market simulation, and real-time technical analysis.
 
+<img width="2557" height="1263" alt="image" src="https://github.com/user-attachments/assets/b0ae8e1b-489b-44c7-bc5c-8e6d696c58c7" />
+
+
+
 ## Features
 
 - **Live Market Data** - Fetches real BTC prices from multiple APIs (CoinGecko, Binance, Coinbase) with automatic fallback
